@@ -2,8 +2,6 @@
 
 # Hey, I'm Albin!
 
-http://albinshrestha.com/
-
 I am a programmer who enjoys making cool things
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/albin-shrestha/)
